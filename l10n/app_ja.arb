@@ -1,0 +1,21 @@
+{
+  "@@locale": "ja",
+  "settings": "設定",
+  "accountAndHealthData": "アカウントと健康データ",
+  "healthData": "健康データ",
+  "manageHealthData": "医療記録を表示および管理する",
+  "consultationHistory": "相談履歴",
+  "viewChatAndSchedule": "チャット履歴と医師のスケジュールを見る",
+  "appPreferences": "アプリの設定",
+  "notification": "通知",
+  "manageReminder": "毎日のリマインダーと相談を管理する",
+  "darkMode": "ダークモード",
+  "enableNightMode": "ナイトモードを有効にする",
+  "language": "言語",
+  "chooseLanguage": "アプリの言語を選択する",
+  "privacyAndHelp": "プライバシーとヘルプ",
+  "privacySecurity": "プライバシーとセキュリティ",
+  "manageAccess": "医療データへのアクセスを管理する",
+  "aboutApp": "アプリについて",
+  "versionInfo": "バージョン、開発者、サポート連絡先"
+}

@@ -1,0 +1,21 @@
+{
+    "@@locale": "id",
+    "settings": "Pengaturan",
+    "accountAndHealthData": "Akun & Data Kesehatan",
+    "healthData": "Data Kesehatan",
+    "manageHealthData": "Lihat dan kelola rekam medis Anda",
+    "consultationHistory": "Riwayat Konsultasi",
+    "viewChatAndSchedule": "Lihat riwayat chat dan jadwal dokter",
+    "appPreferences": "Preferensi Aplikasi",
+    "notification": "Notifikasi",
+    "manageReminder": "Atur pengingat harian & konsultasi",
+    "darkMode": "Mode Gelap",
+    "enableNightMode": "Aktifkan tampilan malam",
+    "language": "Bahasa",
+    "chooseLanguage": "Pilih bahasa aplikasi",
+    "privacyAndHelp": "Privasi & Bantuan",
+    "privacySecurity": "Privasi & Keamanan",
+    "manageAccess": "Atur izin akses data medis Anda",
+    "aboutApp": "Tentang Aplikasi",
+    "versionInfo": "Versi, pengembang, dan kontak bantuan"
+}

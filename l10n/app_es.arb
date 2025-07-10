@@ -1,0 +1,21 @@
+{
+  "@@locale": "es",
+  "settings": "Configuraciones",
+  "accountAndHealthData": "Cuenta y Datos de Salud",
+  "healthData": "Datos de Salud",
+  "manageHealthData": "Ver y gestionar sus registros médicos",
+  "consultationHistory": "Historial de Consultas",
+  "viewChatAndSchedule": "Ver historial de chat y horarios del médico",
+  "appPreferences": "Preferencias de la Aplicación",
+  "notification": "Notificaciones",
+  "manageReminder": "Administrar recordatorios diarios y consultas",
+  "darkMode": "Modo Oscuro",
+  "enableNightMode": "Habilitar modo nocturno",
+  "language": "Idioma",
+  "chooseLanguage": "Elegir el idioma de la aplicación",
+  "privacyAndHelp": "Privacidad y Ayuda",
+  "privacySecurity": "Privacidad y Seguridad",
+  "manageAccess": "Gestionar el acceso a sus datos médicos",
+  "aboutApp": "Acerca de la Aplicación",
+  "versionInfo": "Versión, desarrollador y contacto de soporte"
+}
